@@ -1355,7 +1355,8 @@ display: inline-block;
 }
 
 
-#cust tr:hover {background-color: #000;}
+#cust tr:hover {background-color: #fff;
+     color:#fff;}
 
 #cust th {
   padding-top: 12px;
