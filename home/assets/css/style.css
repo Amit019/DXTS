@@ -1356,7 +1356,7 @@ display: inline-block;
 
 
 #cust tr:hover {background-color: #fff;
-     color:#fff;}
+     color:#000;}
 
 #cust th {
   padding-top: 12px;
