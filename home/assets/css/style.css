@@ -1354,9 +1354,8 @@ display: inline-block;
   padding: 8px;
 }
 
-#cust tr:nth-child(even){background-color: #f2f2f2;}
 
-#cust tr:hover {background-color: #ddd;}
+#cust tr:hover {background-color: #000;}
 
 #cust th {
   padding-top: 12px;
